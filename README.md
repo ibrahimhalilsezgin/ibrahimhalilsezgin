@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 > 📦 46.2 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2024
+> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,7 +78,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 09:47:59 UTC
+ Last Updated on 26/05/2024 09:51:26 UTC
 <!--END_SECTION:waka-->
 
 
