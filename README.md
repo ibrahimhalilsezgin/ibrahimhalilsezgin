@@ -7,8 +7,6 @@
 
 > 📦 46.4 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -77,7 +75,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 07:54:03 UTC
+ Last Updated on 30/05/2024 08:16:02 UTC
 <!--END_SECTION:waka-->
 
 
