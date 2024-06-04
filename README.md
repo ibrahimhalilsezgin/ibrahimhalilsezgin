@@ -5,9 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 46.5 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2024
+> 📦 46.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,7 +74,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 15:28:31 UTC
+ Last Updated on 04/06/2024 15:37:34 UTC
 <!--END_SECTION:waka-->
 
 
