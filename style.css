@@ -1,0 +1,47 @@
+.black {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); /* Siyah yarı opak katman */
+}
+body {
+    background-image: url("./background.jpg");
+    color:white;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    image-rendering: optimizeSpeed;
+}
+.me {
+    margin-bottom: 80px;
+    z-index: 1;
+
+}
+.little-text {
+    color:rgb(209, 206, 206);
+    font-size: 28px;
+}
+
+.title {
+    font-size: 50px;
+}
+.link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin: 25px;
+    margin-top: 5px;
+}
+.link:hover {
+    background: linear-gradient(rgb(67, 152, 222), #000000); /* Arka plan gradient */
+    -webkit-background-clip: text; /* Metin içine gradient sığdırma */
+    background-clip: text; /* Metin içine gradient sığdırma */
+    color: transparent; /* Metni saydam yap */
+}
