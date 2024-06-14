@@ -9,6 +9,6 @@ function updateAge() {
     document.getElementById('old').textContent = `${ageInYears.toFixed(8)} y.o`;
 }
 
-setInterval(updateAge, 0);
+setInterval(updateAge, 1000);
 
 updateAge();
