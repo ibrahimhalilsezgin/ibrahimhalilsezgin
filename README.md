@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -75,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2024 16:16:18 UTC
+ Last Updated on 26/06/2024 16:33:47 UTC
 <!--END_SECTION:waka-->
 
 
