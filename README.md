@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.3 kB Used in GitHub's Storage 
+> 📦 49.4 kB Used in GitHub's Storage 
  > 
 > 🏆 17 Contributions in the Year 2024
  > 
@@ -79,7 +79,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2024 11:54:09 UTC
+ Last Updated on 03/07/2024 12:23:15 UTC
 <!--END_SECTION:waka-->
 
 
