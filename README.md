@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 50.2 kB Used in GitHub's Storage 
+> 📦 50.1 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2024
  > 
@@ -71,7 +71,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 19:45:04 UTC
+ Last Updated on 08/08/2024 19:54:14 UTC
 <!--END_SECTION:waka-->
 
 
