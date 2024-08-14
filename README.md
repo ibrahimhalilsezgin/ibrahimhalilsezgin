@@ -5,7 +5,7 @@ Ibrahim, 17
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@ Ibrahim, 17
 
 > 📦 50.3 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2024
+> 🏆 52 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@ Ibrahim, 17
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-🌆 Daytime                19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-🌃 Evening                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-🌙 Night                  56 commits          ██████████████░░░░░░░░░░░   56.57 % 
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌆 Daytime                19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+🌃 Evening                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+🌙 Night                  61 commits          ███████████████░░░░░░░░░░   58.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 21 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Saturday                 19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Sunday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Monday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Saturday                 19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -85,7 +85,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 22:44:28 UTC
+ Last Updated on 14/08/2024 22:54:15 UTC
 <!--END_SECTION:waka-->
 
 
