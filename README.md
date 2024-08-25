@@ -7,13 +7,11 @@ Ibrahim, 17
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.2 kB Used in GitHub's Storage 
- > 
-> 🏆 70 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +84,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 12:22:18 UTC
+ Last Updated on 25/08/2024 12:50:48 UTC
 <!--END_SECTION:waka-->
 
 
