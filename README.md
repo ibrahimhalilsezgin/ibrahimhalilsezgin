@@ -91,7 +91,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 # İletişim
-[E-Posta Adresim](mailto:ibrahimhalilsezgin@proton.me) üzerinden de bana ulaşabilirsiniz.
+[E-Posta Adresim](mailto:mail@ibrahimhalilsezgin.fun) üzerinden de bana ulaşabilirsiniz.
 
 
 
