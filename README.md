@@ -5,7 +5,7 @@ Ibrahim, 17
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,23 +48,24 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-JavaScript               6 hrs 36 mins       ███████████████████████░░   91.34 % 
-C++                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+JavaScript               6 hrs 58 mins       ██████████████░░░░░░░░░░░   55.22 % 
+C++                      3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Python                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+CSS                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bbbbbbbbbb               6 hrs 36 mins       ███████████████████████░░   91.41 % 
-Sweep                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-hectiamal                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-zipkırıcı                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+bbbbbbbbbb               6 hrs 42 mins       █████████████░░░░░░░░░░░░   53.21 % 
+Sweep                    2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+nodemcu-keyboard-entegras1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+iiiiiiiiiiii             56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+hectiamal                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +85,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 21:14:50 UTC
+ Last Updated on 05/10/2024 21:30:06 UTC
 <!--END_SECTION:waka-->
 
 
