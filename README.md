@@ -13,8 +13,6 @@ Ibrahim, 17
 
 > 📦 53.6 kB Used in GitHub's Storage 
  > 
-> 🏆 83 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -83,7 +81,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2024 04:54:07 UTC
+ Last Updated on 25/10/2024 05:15:16 UTC
 <!--END_SECTION:waka-->
 
 
