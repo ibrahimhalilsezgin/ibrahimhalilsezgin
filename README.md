@@ -48,20 +48,16 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Lua                      59 mins             █████████████████████░░░░   82.66 % 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resources                1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +77,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 21:12:42 UTC
+ Last Updated on 04/02/2025 21:27:48 UTC
 <!--END_SECTION:waka-->
 
 
