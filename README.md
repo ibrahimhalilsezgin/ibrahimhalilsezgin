@@ -7,7 +7,7 @@ Ibrahim, 17
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,7 +86,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 10:16:32 UTC
+ Last Updated on 11/03/2025 10:38:40 UTC
 <!--END_SECTION:waka-->
 
 
