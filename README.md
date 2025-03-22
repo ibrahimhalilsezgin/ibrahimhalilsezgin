@@ -48,18 +48,16 @@ Sunday                   17 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Lua                      35 mins             ██████████████████████░░░   87.37 % 
-INI                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-QboxProject_C85CE6.base  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +77,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2025 21:12:48 UTC
+ Last Updated on 22/03/2025 21:27:50 UTC
 <!--END_SECTION:waka-->
 
 
