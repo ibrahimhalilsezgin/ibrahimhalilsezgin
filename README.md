@@ -11,7 +11,7 @@ Ibrahim, 17
 
 **🐱 My GitHub Data** 
 
-> 📦 100.5 kB Used in GitHub's Storage 
+> 📦 100.6 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
@@ -83,7 +83,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ibrahimhalilsezgin/ibrahimhalilsezgin/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 14:34:48 UTC
+ Last Updated on 01/05/2025 14:45:38 UTC
 <!--END_SECTION:waka-->
 
 
