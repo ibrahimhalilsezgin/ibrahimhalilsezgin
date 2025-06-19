@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋</h1>
-
-###
+<div align="center">
+  🔭 I’m currently working on discord-clone-extended <br>
+🌱 I’m currently learning Svelte & SvelteKit
+</div>
 <!-- TEST -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
