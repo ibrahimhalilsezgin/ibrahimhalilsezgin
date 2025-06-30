@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 <div align="center">
-  🔭 I’m currently working on discord-clone-extended <br>
+  🔭 I’m currently working on e-commerce <br>
 🌱 I’m currently learning Svelte & SvelteKit
 </div>
 <!-- TEST -->
