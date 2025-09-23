@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 <div align="center">
-  🔭 I’m currently working on nothing <br>
+  🔭 I’m currently working on [social-media](https://github.com/ibrahimhalilsezgin/social-media)<br>
 🌱 I’m currently learning nothing
 </div>
 
