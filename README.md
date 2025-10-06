@@ -2,7 +2,7 @@
 <div align="center">
   🔭 I’m currently working on <a href="https://github.com/ibrahimhalilsezgin/social-media">social-media</a><br><br>
 🌱 I’m currently learning nothing <br>
-
+<a href="https://www.buymeacoffee.com/ibrahimhalilsezgin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 <!--START_SECTION:waka-->
@@ -19,4 +19,4 @@
 
 ###
 
-<a href="https://www.buymeacoffee.com/ibrahimhalilsezgin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
