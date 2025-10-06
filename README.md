@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 <div align="center">
-  🔭 I’m currently working on <a href="https://github.com/ibrahimhalilsezgin/social-media">social-media</a><br>
+  🔭 I’m currently working on <a href="https://github.com/ibrahimhalilsezgin/social-media">social-media</a><br><br>
   <a href="https://www.buymeacoffee.com/ibrahimhalilsezgin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ibrahimhalilsezgin&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
 🌱 I’m currently learning nothing
 </div>
