@@ -3,7 +3,7 @@
   🔭 I’m currently working on <a href="https://github.com/ibrahimhalilsezgin/social-media">social-media</a><br><br>
 🌱 I’m currently learning nothing <br>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ibrahimhalilsezgin" data-color="#FFDD00" data-emoji=""  data-font="Arial" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
