@@ -1,0 +1,14 @@
+- name: Monkeytype Readme
+# You may pin to the exact commit or the version.
+# uses: monkeytype-hub/monkeytype-readme@b14fc64fd362ea7257c5ae7977cd304213eccf60
+uses: monkeytype-hub/monkeytype-readme@v1.0.0
+with:
+  # Your Monkeytype username
+  username: ibrhmhl
+  # Themes to generate SVGs for
+  themes: nord_light
+  # Branch to deploy Monkeytype Readme SVGs
+  target-branch: main
+  # GitHub token use to deploy github pages
+  github-token: ${{ github.token }}
+        
