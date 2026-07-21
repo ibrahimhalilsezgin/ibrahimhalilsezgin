@@ -116,10 +116,4 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ibrahimhalilsezgin&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
