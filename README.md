@@ -85,22 +85,6 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimhalilsezgin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ibrahimhalilsezgin&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
