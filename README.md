@@ -72,15 +72,39 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
 
 ---
 
-### 📈 GitHub Stats & Analytics
+### 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimhalilsezgin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhalilsezgin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ibrahimhalilsezgin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahimhalilsezgin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhalilsezgin&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ibrahimhalilsezgin&theme=dark&hide_border=false" width="97%" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimhalilsezgin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ibrahimhalilsezgin&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -109,5 +133,9 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ibrahimhalilsezgin&icon=9&color=0" alt="Visitor Count" />
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ibrahimhalilsezgin&icon=0&color=0" alt="Visitor Count" />
+  </a>
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
