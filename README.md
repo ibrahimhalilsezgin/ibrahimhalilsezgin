@@ -1,46 +1,123 @@
 <h3 align="center">
-  Welcome to İbrahim's profile!
+  Merhaba, ben İbrahim Halil Sezgin! 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+İbrahm;I+am+a+High+school+student;Web+Dev;"></a>
+  <a href="https://github.com/ibrahimhalilsezgin"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+,+welcome+to+my+profile!;I+am+a+Full-Stack+Developer;Currently+working+@+Jetconnect;Building+modern+web+apps;"></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ibrahimhalilsezgin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://ibo.rocks" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ibo.rocks-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:mail@ibo.rocks">
+    <img src="https://img.shields.io/badge/ProtonMail-ibrahimhalilsezgin%40proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
-<div align="center">
-  
-# 💫About Me :
-🔭 I’m currently working on wBox.me
-  
-🌱 I’m currently learning : PHP
 
-  👯 I’m looking to collaborate on my webpage
+### 💫 Hakkımda (About Me)
+İstanbul'da yaşayan, kullanıcı dostu arayüzlerden ölçeklenebilir arka uç (backend) mimarilerine kadar projelerin her aşamasında çözüm üreten bir **Full-Stack Web Geliştiricisiyim**.
 
-  🤔 I’m Not looking for help
+* 🔭 Şu anda **[Jetconnect](https://www.linkedin.com/company/jetconnectapp/)** bünyesinde Web Geliştiricisi olarak çalışıyorum.
+* 🚀 **wBox.me** (WhatsApp SaaS Otomasyonu) gibi gerçek zamanlı entegrasyonlar ve API projeleri geliştiriyorum.
+* 🎓 Bilişim Teknolojileri ve Yazılım Geliştirme odaklı eğitimimi tamamladım.
+* ⚡ Teknolojik yenilikleri takip etmeyi, otomasyon çözümleri (n8n, Apify) üretmeyi ve açık kaynak projelere katkı sağlamayı seviyorum.
 
+---
 
-  📫 How to reach me:  
-  Mail me at "ibrahimhalilsezgin@proton.me" or 
-  scroll to bottom of the page of "https://ibo.rocks" and find Contact Me
+### 💻 Teknolojiler ve Araçlar (Tech Stack)
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <span>JavaScript</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <span>TypeScript</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+      <span>Svelte / SvelteKit</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <span>Node.js</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <span>Express.js</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <span>PHP</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <span>C# / .NET</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <span>MongoDB</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <span>MySQL</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <span>Docker</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <span>Tailwind CSS</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <span>Cloudflare</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <span>Postman</span>
+    </td>
+  </tr>
+</table>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimhalilsezgin) 
+### 📊 Aktivite Grafiği (Activity Graph)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimhalilsezgin&radius=16&theme=one-dark&area=true&order=5&hide_border=true" width="100%" alt="Aktivite Grafiği" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ibrahimhalilsezgin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🏆 Başarılar (GitHub Trophies)
 
-[![](https://visitcount.itsvg.in/api?id=ibrahimhalilsezgin&icon=9&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimhalilsezgin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibosh) 
+---
 
+### ☕ Destek Olun (Support Me)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimhalilsezgin&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+<p align="center">
+  <a href="https://buymeacoffee.com/ibosh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ibrahimhalilsezgin&icon=9&color=0" alt="Ziyaretçi Sayısı" />
+</p>
