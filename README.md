@@ -1,5 +1,5 @@
 <h3 align="center">
-  Merhaba, ben İbrahim Halil Sezgin! 👋
+  Hi, I'm İbrahim Halil Sezgin! 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -21,17 +21,17 @@
 
 ---
 
-### 💫 Hakkımda (About Me)
-İstanbul'da yaşayan, kullanıcı dostu arayüzlerden ölçeklenebilir arka uç (backend) mimarilerine kadar projelerin her aşamasında çözüm üreten bir **Full-Stack Web Geliştiricisiyim**.
+### 💫 About Me
+I'm a **Full-Stack Web Developer** based in Istanbul, building everything from user-friendly interfaces to scalable backend architectures.
 
-* 🔭 Şu anda **[Jetconnect](https://www.linkedin.com/company/jetconnectapp/)** bünyesinde Web Geliştiricisi olarak çalışıyorum.
-* 🚀 **wBox.me** (WhatsApp SaaS Otomasyonu) gibi gerçek zamanlı entegrasyonlar ve API projeleri geliştiriyorum.
-* 🎓 Bilişim Teknolojileri ve Yazılım Geliştirme odaklı eğitimimi tamamladım.
-* ⚡ Teknolojik yenilikleri takip etmeyi, otomasyon çözümleri (n8n, Apify) üretmeyi ve açık kaynak projelere katkı sağlamayı seviyorum.
+* 🔭 Currently working as a Web Developer at **[Jetconnect](https://www.linkedin.com/company/jetconnectapp/)**.
+* 🚀 Building real-time integrations and API-driven projects like **wBox.me** (WhatsApp SaaS Automation).
+* 🎓 Graduated from Information Technology (Software Development branch).
+* ⚡ Passionate about workflow automation (n8n, Apify), AI integration, and contributing to open-source software.
 
 ---
 
-### 💻 Teknolojiler ve Araçlar (Tech Stack)
+### 💻 Tech Stack & Tools
 
 <table>
   <tr>
@@ -94,23 +94,15 @@
 
 ---
 
-### 📊 Aktivite Grafiği (Activity Graph)
+### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimhalilsezgin&radius=16&theme=one-dark&area=true&order=5&hide_border=true" width="100%" alt="Aktivite Grafiği" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimhalilsezgin&radius=16&theme=one-dark&area=true&order=5&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🏆 Başarılar (GitHub Trophies)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimhalilsezgin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### ☕ Destek Olun (Support Me)
+### ☕ Support Me
 
 <p align="center">
   <a href="https://buymeacoffee.com/ibosh" target="_blank">
@@ -119,5 +111,5 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ibrahimhalilsezgin&icon=9&color=0" alt="Ziyaretçi Sayısı" />
+  <img src="https://visitcount.itsvg.in/api?id=ibrahimhalilsezgin&icon=9&color=0" alt="Visitor Count" />
 </p>
