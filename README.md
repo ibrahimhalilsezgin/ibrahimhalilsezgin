@@ -11,10 +11,7 @@
   <a href="https://linkedin.com/in/ibrahimhalilsezgin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://ibo.rocks" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ibo.rocks-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:mail@ibo.rocks">
+  <a href="mailto:ibrahimhalilsezgin@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-ibrahimhalilsezgin%40proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -35,8 +32,7 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
 ### 🚀 Key Projects & Experience
 
 - **wBox.me (WhatsApp SaaS & Automation):** Real-time messaging, bot automation, and API integration service built with Node.js, WebSockets, and MongoDB.
-- **Dental CRM Platform:** Next.js 14, Prisma ORM, MySQL, and Netgsm SMS integration featuring an interactive FDI dental chart and intelligent appointment scheduling algorithm.
-- **Apify & Web Scraping Tools:** Custom Apify Actors and scrapers for automated data extraction and lead generation.
+- **[hurgazete.com](https://hurgazete.com) (Digital News Platform):** Modern and scalable digital news portal.
 
 ---
 
@@ -115,5 +111,3 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
   </a>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
