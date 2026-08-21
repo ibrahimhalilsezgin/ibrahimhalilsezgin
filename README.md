@@ -2,12 +2,15 @@
   Hi, I'm İbrahim Halil Sezgin! 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
 <p align="center">
   <a href="https://github.com/ibrahimhalilsezgin"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+,+welcome+to+my+profile!;I+am+a+Full-Stack+Developer;Currently+working+@+Jetconnect;Building+modern+web+and+SaaS+apps;"></a>
 </p>
 
+
 <p align="center">
+  <a href="https://ibrahimhalilsezgin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WebSite-%230077B5.svg?style=for-the-badge&logo=https://ibrahimhalilsezgin.com/&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://linkedin.com/in/ibrahimhalilsezgin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
