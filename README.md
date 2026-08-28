@@ -25,8 +25,8 @@
 
 I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in building end-to-end web applications, real-time automation systems, scalable REST APIs, and modern frontend interfaces.
 
-- 🔭 **Current Role:** Web Developer at **[Jetconnect](https://www.linkedin.com/company/jetconnectapp/)**, crafting web applications and services.
-- 🚀 **Featured Venture:** Building and optimizing **wBox.me**, a high-performance WhatsApp SaaS and API automation platform.
+- 🔭 **Current Role:** Web Developer, crafting web applications and services.
+- 🚀 **Featured Venture:** Building and optimizing **app.ibrahimhalilsezgin.com**, a high-performance CRM, TASK, CMS platform.
 - 🎓 **Education:** Background in Information Technology & Software Development (Zeytinburnu Vocational & Technical Anatolian High School).
 - ⚡ **Core Focus:** Event-driven architectures, workflow automation (n8n, Apify), Node.js/TypeScript backends, SvelteKit, and cloud infrastructure.
 
@@ -34,9 +34,10 @@ I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in b
 
 ### 🚀 Key Projects & Experience
 
-- **wBox.me (WhatsApp SaaS & Automation):** Real-time messaging, bot automation, and API integration service built with Node.js, WebSockets, and MongoDB.
+- **[wbox.me](https://wbox.me) (Omni-Channel Support):** Real-time messaging, bot automation, and API integration service built with PHP, Node.js, WebSockets, and SQL.
 - **[hurgazete.com](https://hurgazete.com) (Digital News Platform):** Modern and scalable digital news portal.
-
+- **[agency.uzmansirketim.com](https://agency.uzmansirketim.com) (Agency Website):** Modern and scalable agency web portal.
+- **[app.ibrahimhalilsezgin.com](https://app.ibrahimhalilsezgin.com):** A comprehensive, custom-built business management platform featuring full-scale CRM, task & project tracking, finance management, CMS, and advanced workflow automations. Includes built-in system monitoring and developer-friendly API access with full documentation.
 ---
 
 ### 💻 Tech Stack & Tools
