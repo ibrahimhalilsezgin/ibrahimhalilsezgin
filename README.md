@@ -1,117 +1,103 @@
-<h1 align="center">
-  Hi, I'm İbrahim Halil Sezgin! 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
+  <h1>İbrahim Halil Sezgin</h1>
+  <p>
+    <strong>Full-Stack Developer · AI/ML Explorer · 3D Web Systems</strong>
+  </p>
+  <p>
+    <a href="https://github.com/ibrahimhalilsezgin">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+scalable+web+apps+%26+real-time+systems;Training+Turkish+Transformers+from+scratch+(PyTorch);Crafting+interactive+3D+web+experiences+(Three.js);Designing+modern+SaaS+architectures+%26+automations;" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://ibrahimhalilsezgin.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/ibrahimhalilsezgin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ibrahimhalilsezgin@proton.me">
+      <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+### ⚡ About Me
+
+Full-Stack developer based in Istanbul, Turkey. I engineer end-to-end web products, interactive 3D visualizations, deep learning experiments, and event-driven automation systems.
+
+- 🔭 **Current Focus:** Next.js App Router, Three.js 3D web systems, and PyTorch deep learning architectures.
+- 🧠 **Research & Exploration:** Building decoder-only Transformers from scratch (Llama-3 architecture, custom BPE tokenizers, pretraining & SFT pipelines).
+- ⚙️ **Engineering Philosophy:** Clean code, native platform leverage, fast interfaces, and minimal boilerplate.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **NanoLLM-TR** | ~65M parameter Turkish Decoder-only Transformer built from scratch without external LLM frameworks. Features Llama-3 architecture (RoPE, SwiGLU, RMSNorm, FlashAttention-2 SDPA), custom 16k BPE tokenizer, and streaming CLI chat. | `PyTorch` `CUDA` `Tokenizers` `Python` | [Code](https://github.com/ibrahimhalilsezgin) |
+| **Git City** | Interactive 3D GitHub repository visualizer and time machine. Transforms codebases into isometric 3D cities via squarified treemaps with live commit playback simulation. | `Next.js 16` `Three.js` `TypeScript` `Tailwind` | [Live](https://city.ibrahimhalilsezgin.com) · [Repo](https://github.com/ibrahimhalilsezgin/git-city) |
+| **Retro Radio 3D** | Interactive vintage 3D radio web app featuring a custom 3D model designed in Blender, dual-mode synchronized controls (HUD & 3D clicks), and YouTube audio stream player. | `React Three Fiber` `Drei` `Next.js` `Blender` | [Live](https://radio.ibrahimhalilsezgin.com) · [Repo](https://github.com/ibrahimhalilsezgin/retro-radio-3d) |
+| **Acente** | Enterprise digital agency operating system with full-fledged CRM, lead automation engine, dynamic service catalog, customer portal, and two-way ticketing system. | `Next.js 16` `MongoDB` `Auth.js v5` `Tailwind v4` | [Live](https://acente-woad.vercel.app) |
+| **wBox.me** | High-performance WhatsApp SaaS and real-time messaging automation platform with multi-channel support and bot workflows. | `Node.js` `WebSockets` `PHP` `MySQL` | [Live](https://wbox.me) |
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center"><strong>Languages & Core</strong></p>
 <p align="center">
-  <a href="https://github.com/ibrahimhalilsezgin"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+,+welcome+to+my+profile!;I+am+a+Full-Stack+Developer;Currently+working+@+Jetconnect;Building+modern+web+and+SaaS+apps;"></a>
-</p>
-
-
-<p align="center">
-  <a href="https://ibrahimhalilsezgin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/WebSite-%230077B5.svg?style=for-the-badge&logo=https://ibrahimhalilsezgin.com/&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://linkedin.com/in/ibrahimhalilsezgin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ibrahimhalilsezgin@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-ibrahimhalilsezgin%40proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-### 💫 About Me
-
-I am a **Full-Stack Web Developer** based in Istanbul, Turkey. I specialize in building end-to-end web applications, real-time automation systems, scalable REST APIs, and modern frontend interfaces.
-
-- 🔭 **Current Role:** Web Developer, crafting web applications and services.
-- 🚀 **Featured Venture:** Building and optimizing **app.ibrahimhalilsezgin.com**, a high-performance CRM, TASK, CMS platform.
-- 🎓 **Education:** Background in Information Technology & Software Development (Zeytinburnu Vocational & Technical Anatolian High School).
-- ⚡ **Core Focus:** Event-driven architectures, workflow automation (n8n, Apify), Node.js/TypeScript backends, SvelteKit, and cloud infrastructure.
-
----
-
-### 🚀 Key Projects & Experience
-
-- **[wbox.me](https://wbox.me) (Omni-Channel Support):** Real-time messaging, bot automation, and API integration service built with PHP, Node.js, WebSockets, and SQL.
-- **[hurgazete.com](https://hurgazete.com) (Digital News Platform):** Modern and scalable digital news portal.
-- **[agency.uzmansirketim.com](https://agency.uzmansirketim.com) (Agency Website):** Modern and scalable agency web portal.
-- **[app.ibrahimhalilsezgin.com](https://app.ibrahimhalilsezgin.com):** A comprehensive, custom-built business management platform featuring full-scale CRM, task & project tracking, finance management, CMS, and advanced workflow automations. Includes built-in system monitoring and developer-friendly API access with full documentation.
----
-
-### 💻 Tech Stack & Tools
-
-#### **Frontend**
-<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,svelte,tailwind,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cs,php,html,css" alt="Languages" />
   </a>
 </p>
 
-#### **Backend & Runtime**
-<p align="left">
+<p align="center"><strong>Frontend & 3D Experiences</strong></p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,dotnet,py" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,threejs" alt="Frontend & 3D" />
   </a>
 </p>
 
-#### **Databases & Cloud & DevOps**
-<p align="left">
+<p align="center"><strong>Backend, AI & Runtimes</strong></p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,cloudflare,nginx,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,pytorch" alt="Backend & AI" />
   </a>
 </p>
 
-#### **Tools & API Testing**
-<p align="left">
+<p align="center"><strong>Databases, Cloud & Infrastructure</strong></p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,cloudflare,nginx,git,github" alt="DevOps & DB" />
+  </a>
+</p>
+
+<p align="center"><strong>Development Tools & Creative</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,bash,blender" alt="Tools" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Analytics
+### 📊 GitHub Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ibrahimhalilsezgin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahimhalilsezgin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ibrahimhalilsezgin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahimhalilsezgin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ibrahimhalilsezgin&theme=dark&hide_border=false" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ibrahimhalilsezgin&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimhalilsezgin&radius=16&theme=one-dark&area=true&order=5&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-### 📜 Certifications
-
-- **HackerRank:** JavaScript (Intermediate), Node.js (Intermediate), Python (Basic)
-- **BTK Academy:** Introduction to Cybersecurity, Web Development with HTML5, Node.js
-
----
-
-### ☕ Support & Connect
-
-<p align="center">
-  <a href="https://buymeacoffee.com/ibosh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
-  </a>
-</p>
+<div align="center">
+  <p><i>"The best code is the code never written. Simplicity over complexity."</i></p>
+</div>
